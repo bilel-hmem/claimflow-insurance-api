@@ -1,0 +1,5 @@
+export enum Role {
+  POLICYHOLDER = 'POLICYHOLDER',
+  ADJUSTER = 'ADJUSTER',
+  ADMIN = 'ADMIN',
+}
